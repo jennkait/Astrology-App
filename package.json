@@ -1,0 +1,17 @@
+{
+  "name": "astro-app",
+  "version": "0.0.1",
+  "description": "Kaitlyn and Brett's Astrology App",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "astrology"
+  ],
+  "author": "kaitstet",
+  "license": "ISC"
+}
