@@ -1342,9 +1342,9 @@ module.exports = {
     signs: ['Scorpio'],
     startTime: ''
   },
-  
-  
-  
+
+
+
 
 
 

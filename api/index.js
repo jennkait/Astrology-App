@@ -4,7 +4,9 @@ const fs = require('fs')
 var apiKeys = [
   'user1laksjdfjaljdflja;sdjfkljasdf'
 ]
+var calendar = require('./moon-sign-calendar')
 
+// returns current date like yyyy-mm-dd
 function getDateKey() {
   var today = new Date();
   var dd = today.getDate();
@@ -24,17 +26,65 @@ function getDateKey() {
   return yyyy + '-' + mm + '-' + dd;
 }
 
+function getMoonSign(todaysInfo) {
+  // example data
+  // todaysInfo = {
+  //   signs: ['Taurus'],
+  //   startTime: ''
+  // };
+  // returns 'Taurus'
+
+  // base case
+  if (todaysInfo.signs.length == 1) {
+    return todaysInfo.signs[0]
+  }
+
+  // case where more than one
+  var now = new Date();
+  var startTime = new Date(todaysInfo.startTime);
+  if (now < startTime) {
+    return todaysInfo.signs[0]
+  }
+  return todaysInfo.signs[1]
+}
+
 // designed to return the sign of the current moon
+
+app.use(function (req, res, next) {
+
+    // Website you wish to allow to connect
+    res.setHeader('Access-Control-Allow-Origin', '*');
+
+    // Request methods you wish to allow
+    res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE');
+
+    // Request headers you wish to allow
+    // res.setHeader('Access-Control-Allow-Headers', 'X-Requested-With,content-type');
+
+    // Set to true if you need the website to include cookies in the requests sent
+    // to the API (e.g. in case you use sessions)
+    // res.setHeader('Access-Control-Allow-Credentials', true);
+
+    // Pass to next layer of middleware
+    next();
+});
 app.get('/moon-sign', (req, res) => {
-  // console.log(req.query)
-  // if (!apiKeys.includes(req.query.apiKey)) {
-  //   return res.status(400);
-  // }
-  let calendar = require('./moon-sign-calendar')
-  let dateKey = getDateKey();
-  console.log(calendar && calendar[dateKey])
-  return res.send(calendar[dateKey] || "Not found")
-  res.send(calendar)
+  console.log('/moon-sign');
+  let dateKey = getDateKey(); // yyyy-mm-dd
+  let todaysInfo = {}
+  if (calendar && calendar[dateKey]) {
+    // if found, set moonSign to found sign
+    todaysInfo = calendar[dateKey];
+  } else {
+    return res.send('Not found')
+  }
+  // moon sign will look like
+
+  // version 1 = return simply the sign as a string
+  var moonSign = getMoonSign(todaysInfo);
+
+  // return not found or found sign
+  return res.json({test: moonSign});
 })
 
 
@@ -47,4 +97,11 @@ app.get('/moon-data', (req, res) => {
   res.send(require('fs').readFileSync('./moon-data.json'))
 })
 
-app.listen(8010)
+var cors = require('cors')
+
+// app.use(cors())
+// Add headers
+
+app.listen(8001, _ => {
+  console.log('API running on 8000')
+})
