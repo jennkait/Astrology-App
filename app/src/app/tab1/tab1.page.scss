@@ -1,3 +1,45 @@
-ion-content ion-toolbar {
+ion-toolbar {
   --background: translucent;
+}
+ion-text {
+  text-align: center;
+}
+.bg-Aries {
+  --background: #D62614;
+}
+.bg-Taurus {
+  --background: #0D6F55;
+}
+.bg-Gemini {
+  --background: #F7DF88;
+}
+.bg-Cancer {
+  --background: #C3CDE3;
+  //E6EDF6
+}
+.bg-Leo {
+  --background: #E89D10;
+}
+.bg-Virgo {
+  --background: #8B6969;
+}
+.bg-Libra {
+  --background: #FCD4D4;
+}
+.bg-Scorpio {
+  --background: #A2242F;
+}
+.bg-Sagittarius {
+  --background: #907099;
+  //B9A9C5
+}
+.bg-Capricorn {
+  --background: #717790;
+}
+.bg-Aquarius {
+  --background: #01A5CB ;
+}
+.bg-Pisces {
+  --background: #BAE3DE;
+  //8CB7A7 D3E5D7
 }

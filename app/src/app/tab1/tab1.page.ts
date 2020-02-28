@@ -9,12 +9,13 @@ import { HttpClient } from '@angular/common/http';
 })
 export class Tab1Page {
   // films: Observable<any>;
-  sign = 'None'
+  data = {}
   constructor(private httpClient: HttpClient) {
 
-    this.httpClient.get('http://localhost:8001/moon-sign').subscribe(data => {
+    this.httpClient.get('https://us-central1-astromoon.cloudfunctions.net/api/moon-sign').subscribe(data => {
       console.log('my data: ', data);
-      this.sign = data.test
+      // data = { sign, startTime, endTime }
+      this.data = data;
     })
   }
 

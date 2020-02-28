@@ -1,21 +1,23 @@
 <ion-header [translucent]="true">
   <ion-toolbar>
-    <ion-title>
-      Tab 1
+    <ion-title color="light">
+      Astro-App
     </ion-title>
   </ion-toolbar>
 </ion-header>
 
-<ion-content [fullscreen]="true">
+<ion-content [fullscreen]="true" [ngClass]="'bg-'+data.sign">
   <ion-header collapse="condense">
     <ion-toolbar>
-      <ion-title size="large">Tab 1</ion-title>
+      <ion-title size="large">Astro-App</ion-title>
     </ion-toolbar>
   </ion-header>
-  <ion-card>
-    Moon is in {{sign}}
-  </ion-card>
+  <ion-text color="light">
+    <h1>
+      <ion-icon name="moon-outline"></ion-icon> is in {{data.sign}}
+    </h1>
+    <h4><!-- <ion-icon name="time"></ion-icon> -->From {{data.startTime}}</h4>
+    <h4>To {{data.endTime}}</h4>
+  </ion-text>
 
-  <app-explore-container name="Tab 1 page">
-  </app-explore-container>
 </ion-content>
