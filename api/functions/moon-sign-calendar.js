@@ -856,168 +856,168 @@ module.exports = {
     startTime: ''
   },
   '2020-09-01': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Aquarius','Pisces'],
+    startTime: '2020-09-01 09:35'
   },
   '2020-09-02': {
-    signs: ['Scorpio'],
+    signs: ['Pisces'],
     startTime: ''
   },
   '2020-09-03': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Pisces','Aries'],
+    startTime: '2020-09-03 20:22'
   },
   '2020-09-04': {
-    signs: ['Scorpio'],
+    signs: ['Aries'],
     startTime: ''
   },
   '2020-09-05': {
-    signs: ['Scorpio'],
+    signs: ['Aries'],
     startTime: ''
   },
   '2020-09-06': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Aries','Taurus'],
+    startTime: '2020-09-06 08:44'
   },
   '2020-09-07': {
-    signs: ['Scorpio'],
+    signs: ['Taurus'],
     startTime: ''
   },
   '2020-09-08': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Taurus','Gemini'],
+    startTime: '2020-09-08 21:28'
   },
   '2020-09-09': {
-    signs: ['Scorpio'],
+    signs: ['Gemini'],
     startTime: ''
   },
   '2020-09-10': {
-    signs: ['Scorpio'],
+    signs: ['Gemini'],
     startTime: ''
   },
   '2020-09-11': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Gemini','Cancer'],
+    startTime: '2020-09-11 08:23'
   },
   '2020-09-12': {
-    signs: ['Scorpio'],
+    signs: ['Cancer'],
     startTime: ''
   },
   '2020-09-13': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Cancer','Leo'],
+    startTime: '2020-09-13 15:33'
   },
   '2020-09-14': {
-    signs: ['Scorpio'],
+    signs: ['Leo'],
     startTime: ''
   },
   '2020-09-15': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Leo','Virgo'],
+    startTime: '2020-09-15 18:38'
   },
   '2020-09-16': {
-    signs: ['Scorpio'],
+    signs: ['Virgo'],
     startTime: ''
   },
   '2020-09-17': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Virgo','Libra'],
+    startTime: '2020-09-17 18:56'
   },
   '2020-09-18': {
-    signs: ['Scorpio'],
+    signs: ['Libra'],
     startTime: ''
   },
   '2020-09-19': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Libra','Scorpio'],
+    startTime: '2020-09-19 18:33'
   },
   '2020-09-20': {
     signs: ['Scorpio'],
     startTime: ''
   },
   '2020-09-21': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Scorpio','Sagittarius'],
+    startTime: '2020-09-21 19:32'
   },
   '2020-09-22': {
-    signs: ['Scorpio'],
+    signs: ['Sagittarius'],
     startTime: ''
   },
   '2020-09-23': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Sagittarius','Capricorn'],
+    startTime: '2020-09-23 23:17'
   },
   '2020-09-24': {
-    signs: ['Scorpio'],
+    signs: ['Capricorn'],
     startTime: ''
   },
   '2020-09-25': {
-    signs: ['Scorpio'],
+    signs: ['Capricorn'],
     startTime: ''
   },
   '2020-09-26': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Capricorn','Aquarius'],
+    startTime: '2020-09-26 06:08'
   },
   '2020-09-27': {
-    signs: ['Scorpio'],
+    signs: ['Aquarius'],
     startTime: ''
   },
   '2020-09-28': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Aquarius','Pisces'],
+    startTime: '2020-09-28 15:34'
   },
   '2020-09-29': {
-    signs: ['Scorpio'],
+    signs: ['Pisces'],
     startTime: ''
   },
   '2020-09-30': {
-    signs: ['Scorpio'],
+    signs: ['Pisces'],
     startTime: ''
   },
   '2020-10-01': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Pisces','Aries'],
+    startTime: '2020-10-01 02:48'
   },
   '2020-10-02': {
-    signs: ['Scorpio'],
+    signs: ['Aries'],
     startTime: ''
   },
   '2020-10-03': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Aries','Taurus'],
+    startTime: '2020-10-03 15:13'
   },
   '2020-10-04': {
-    signs: ['Scorpio'],
+    signs: ['Taurus'],
     startTime: ''
   },
   '2020-10-05': {
-    signs: ['Scorpio'],
+    signs: ['Taurus'],
     startTime: ''
   },
   '2020-10-06': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Taurus','Gemini'],
+    startTime: '2020-10-06 04:03'
   },
   '2020-10-07': {
-    signs: ['Scorpio'],
+    signs: ['Gemini'],
     startTime: ''
   },
   '2020-10-08': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Gemini','Cancer'],
+    startTime: '2020-10-08 15:46'
   },
   '2020-10-09': {
-    signs: ['Scorpio'],
+    signs: ['Cancer'],
     startTime: ''
   },
   '2020-10-10': {
-    signs: ['Scorpio'],
+    signs: ['Cancer'],
     startTime: ''
   },
   '2020-10-11': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Cancer','Leo'],
+    startTime: '2020-10-11'
   },
   '2020-10-12': {
     signs: ['Scorpio'],
