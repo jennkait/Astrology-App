@@ -1017,330 +1017,331 @@ module.exports = {
   },
   '2020-10-11': {
     signs: ['Cancer','Leo'],
-    startTime: '2020-10-11'
+    startTime: '2020-10-11 00:25'
   },
   '2020-10-12': {
-    signs: ['Scorpio'],
+    signs: ['Leo'],
     startTime: ''
   },
   '2020-10-13': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Leo','Virgo'],
+    startTime: '2020-10-13 04:56'
   },
   '2020-10-14': {
-    signs: ['Scorpio'],
+    signs: ['Virgo'],
     startTime: ''
   },
   '2020-10-15': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Virgo','Libra'],
+    startTime: '2020-10-15 05:54'
   },
   '2020-10-16': {
-    signs: ['Scorpio'],
+    signs: ['Libra'],
     startTime: ''
   },
   '2020-10-17': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Libra','Scorpio'],
+    startTime: '2020-10-17 05:06'
   },
   '2020-10-18': {
     signs: ['Scorpio'],
     startTime: ''
   },
   '2020-10-19': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Scorpio','Sagittarius'],
+    startTime: '2020-10-19 04:43'
   },
   '2020-10-20': {
-    signs: ['Scorpio'],
+    signs: ['Sagittarius'],
     startTime: ''
   },
   '2020-10-21': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Sagittarius','Capricorn'],
+    startTime: '2020-10-21 06:44'
   },
   '2020-10-22': {
-    signs: ['Scorpio'],
+    signs: ['Capricorn'],
     startTime: ''
   },
   '2020-10-23': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Capricorn','Aquarius'],
+    startTime: '2020-10-23 12:17'
   },
   '2020-10-24': {
-    signs: ['Scorpio'],
+    signs: ['Aquarius'],
     startTime: ''
   },
   '2020-10-25': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Aquarius','Pisces'],
+    startTime: '2020-10-25 21:19'
   },
   '2020-10-26': {
-    signs: ['Scorpio'],
+    signs: ['Pisces'],
     startTime: ''
   },
   '2020-10-27': {
-    signs: ['Scorpio'],
+    signs: ['Pisces'],
     startTime: ''
   },
   '2020-10-28': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Pisces','Aries'],
+    startTime: '2020-10-28 08:45'
   },
   '2020-10-29': {
-    signs: ['Scorpio'],
+    signs: ['Aries'],
     startTime: ''
   },
   '2020-10-30': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Aries','Taurus'],
+    startTime: '2020-10-30 21:19'
   },
   '2020-10-31': {
-    signs: ['Scorpio'],
+    signs: ['Taurus'],
     startTime: ''
   },
   '2020-11-01': {
-    signs: ['Scorpio'],
+    signs: ['Taurus'],
     startTime: ''
   },
   '2020-11-02': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Taurus','Gemini'],
+    startTime: '2020-11-02 10:00'
   },
   '2020-11-03': {
-    signs: ['Scorpio'],
+    signs: ['Gemini'],
     startTime: ''
   },
   '2020-11-04': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Gemini','Cancer'],
+    startTime: '2020-11-04 21:46'
   },
   '2020-11-05': {
-    signs: ['Scorpio'],
+    signs: ['Cancer'],
     startTime: ''
   },
   '2020-11-06': {
-    signs: ['Scorpio'],
+    signs: ['Cancer'],
     startTime: ''
   },
   '2020-11-07': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Cancer','Leo'],
+    startTime: '2020-11-07 07:19'
   },
   '2020-11-08': {
-    signs: ['Scorpio'],
+    signs: ['Leo'],
     startTime: ''
   },
   '2020-11-09': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Leo','Virgo'],
+    startTime: '2020-11-09 13:30'
   },
   '2020-11-10': {
-    signs: ['Scorpio'],
+    signs: ['Virgo'],
     startTime: ''
   },
   '2020-11-11': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Virgo','Libra'],
+    startTime: '2020-11-11 16:10'
   },
   '2020-11-12': {
-    signs: ['Scorpio'],
+    signs: ['Libra'],
     startTime: ''
   },
   '2020-11-13': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Libra','Scorpio'],
+    startTime: '2020-11-13 16:19'
   },
   '2020-11-14': {
     signs: ['Scorpio'],
     startTime: ''
   },
   '2020-11-15': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Scorpio','Sagittarius'],
+    startTime: '2020-11-15 15:47'
   },
   '2020-11-16': {
-    signs: ['Scorpio'],
+    signs: ['Sagittarius'],
     startTime: ''
   },
   '2020-11-17': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Sagittarius','Capricorn'],
+    startTime: '2020-11-17 16:35'
   },
   '2020-11-18': {
-    signs: ['Scorpio'],
+    signs: ['Capricorn'],
     startTime: ''
   },
   '2020-11-19': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Capricorn','Aquarius'],
+    startTime: '2020-11-19 20:25'
   },
   '2020-11-20': {
-    signs: ['Scorpio'],
+    signs: ['Aquarius'],
     startTime: ''
   },
   '2020-11-21': {
-    signs: ['Scorpio'],
+    signs: ['Aquarius'],
     startTime: ''
   },
   '2020-11-22': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Aquarius','Pisces'],
+    startTime: '2020-11-22 04:06'
   },
   '2020-11-23': {
-    signs: ['Scorpio'],
+    signs: ['Pisces'],
     startTime: ''
   },
   '2020-11-24': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Pisces','Aries'],
+    startTime: '2020-11-24 15:05'
   },
   '2020-11-25': {
-    signs: ['Scorpio'],
+    signs: ['Aries'],
     startTime: ''
   },
   '2020-11-26': {
-    signs: ['Scorpio'],
+    signs: ['Aries'],
     startTime: ''
   },
   '2020-11-27': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Aries','Taurus'],
+    startTime: '2020-11-27 03:43'
   },
   '2020-11-28': {
-    signs: ['Scorpio'],
+    signs: ['Taurus'],
     startTime: ''
   },
   '2020-11-29': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Taurus','Gemini'],
+    startTime: '2020-11-29 16:16'
   },
   '2020-11-30': {
-    signs: ['Scorpio'],
+    signs: ['Gemini'],
     startTime: ''
   },
   '2020-12-01': {
-    signs: ['Scorpio'],
+    signs: ['Gemini'],
     startTime: ''
   },
   '2020-12-02': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Gemini','Cancer'],
+    startTime: '2020-12-02 03:33'
   },
   '2020-12-03': {
-    signs: ['Scorpio'],
+    signs: ['Cancer'],
     startTime: ''
   },
   '2020-12-04': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Cancer','Leo'],
+    startTime: '2020-12-04 12:53'
   },
   '2020-12-05': {
-    signs: ['Scorpio'],
+    signs: ['Leo'],
     startTime: ''
   },
   '2020-12-06': {
-    signs: ['Scorpio'],
+    signs: ['Leo','Virgo'],
     startTime: ''
-  },'2020-12-07': {
-    signs: ['Scorpio'],
+  },
+  '2020-12-07': {
+    signs: ['Virgo'],
     startTime: ''
   },
   '2020-12-08': {
-    signs: ['Scorpio'],
+    signs: ['Virgo'],
     startTime: ''
   },
   '2020-12-09': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Virgo','Libra'],
+    startTime: '2020-12-09 00:02'
   },
   '2020-12-10': {
-    signs: ['Scorpio'],
+    signs: ['Libra'],
     startTime: ''
   },
   '2020-12-11': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Libra','Scorpio'],
+    startTime: '2020-12-11 01:59'
   },
   '2020-12-12': {
     signs: ['Scorpio'],
     startTime: ''
   },
   '2020-12-13': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Scorpio','Sagittarius'],
+    startTime: '2020-12-13 02:40'
   },
   '2020-12-14': {
-    signs: ['Scorpio'],
+    signs: ['Sagittarius'],
     startTime: ''
   },
   '2020-12-15': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Sagittarius','Capricorn'],
+    startTime: '2020-12-15 03:35'
   },
   '2020-12-16': {
-    signs: ['Scorpio'],
+    signs: ['Capricron'],
     startTime: ''
   },
   '2020-12-17': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Capricorn','Aquarius'],
+    startTime: '2020-12-17 06:27'
   },
   '2020-12-18': {
-    signs: ['Scorpio'],
+    signs: ['Aquarius'],
     startTime: ''
   },
   '2020-12-19': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Aquarius','Pisces'],
+    startTime: '2020-12-19 12:39'
   },
   '2020-12-20': {
-    signs: ['Scorpio'],
+    signs: ['Pisces'],
     startTime: ''
   },
   '2020-12-21': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Pisces','Aries'],
+    startTime: '2020-12-21 22:33'
   },
   '2020-12-22': {
-    signs: ['Scorpio'],
+    signs: ['Aries'],
     startTime: ''
   },
   '2020-12-23': {
-    signs: ['Scorpio'],
+    signs: ['Aries'],
     startTime: ''
   },
   '2020-12-24': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Aries','Taurus'],
+    startTime: '2020-12-24 10:56'
   },
   '2020-12-25': {
-    signs: ['Scorpio'],
+    signs: ['Taurus'],
     startTime: ''
   },
   '2020-12-26': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Taurus','Gemini'],
+    startTime: '2020-12-26 23:33'
   },
   '2020-12-27': {
-    signs: ['Scorpio'],
+    signs: ['Gemini'],
     startTime: ''
   },
   '2020-12-28': {
-    signs: ['Scorpio'],
+    signs: ['Gemini'],
     startTime: ''
   },
   '2020-12-29': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Gemini','Cancer'],
+    startTime: '2020-12-29 10:29'
   },
   '2020-12-30': {
-    signs: ['Scorpio'],
+    signs: ['Cancer'],
     startTime: ''
   },
   '2020-12-31': {
-    signs: ['Scorpio'],
-    startTime: ''
+    signs: ['Cancer','Leo'],
+    startTime: '2020-12-31 18:58'
   },
 
 
