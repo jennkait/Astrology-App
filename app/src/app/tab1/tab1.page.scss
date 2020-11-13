@@ -4,6 +4,10 @@ ion-toolbar {
 ion-text {
   text-align: center;
 }
+ion-content {
+  --background: url(../../assets/galaxy.jpg)
+  center/cover no-repeat fixed;
+}
 .bg-Aries {
   --background: #D62614;
 }
